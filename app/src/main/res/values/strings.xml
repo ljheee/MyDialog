@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+
+    <string-array name="city" >
+        <item >CS</item>
+        <item >武汉</item>
+        <item >北极</item>
+
+
+
+    </string-array>
+</resources>
